@@ -1,0 +1,42 @@
+button {
+    padding: 20px;
+    border-radius: 10px;
+    background: linear-gradient(rgb(239, 95, 95), rgb(65, 158, 246), rgb(142, 213, 142));
+    color: darkred;
+    font-family: cursive;
+    font-weight: 900;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+p {
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    color: darkblue;
+
+}
+
+body {
+    background: turquoise;
+}
+
+span {
+    font-size: 80px;
+    color: darkred
+}
+
+#submit {
+    height: 40px;
+    background-color: coral;
+    border-radius: 5px;
+    color: rgb(41, 47, 30);
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+
+input {
+    padding: 10px;
+    border-radius: 10px;
+}
